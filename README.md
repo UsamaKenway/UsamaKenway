@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi 👋, I'm Usama
 
+### Writings 
+* [StyleGan-Report](https://www.researchgate.net/publication/370672909_Generative_Adversarial_Networks_AI_Report) - 3rd May 2020
 <!--
 **UsamaKenway/UsamaKenway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
