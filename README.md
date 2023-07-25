@@ -1,4 +1,6 @@
+
 ### Hi 👋, I'm Usama
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=usamakenway&label=Profile%20views&color=0e75b6&style=flat" alt="usamakenway" /> </p>
 
 ### 🔭 I’m currently working on 
 * [LLM-fastapi-n-gradio-server](https://github.com/UsamaKenway/LLM-fastapi-n-gradio-server.git) 
@@ -14,9 +16,9 @@ An open-source project with API support for your backend app to use any LLM mode
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usamakenway&show_icons=true&locale=en&layout=compact" alt="usamakenway" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usamakenway&show_icons=true&locale=en" alt="usamakenway" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usamakenway&show_icons=true&locale=en"  width="75%" alt="usamakenway" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usamakenway&" alt="usamakenway" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usamakenway&" width="75%" alt="usamakenway" /></p>
 
 
 <!--
