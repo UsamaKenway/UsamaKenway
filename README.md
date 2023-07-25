@@ -16,9 +16,9 @@ An open-source project with API support for your backend app to use any LLM mode
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usamakenway&show_icons=true&locale=en&layout=compact" alt="usamakenway" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usamakenway&show_icons=true&locale=en"  width="75%" alt="usamakenway" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usamakenway&show_icons=true&locale=en"  width="300" alt="usamakenway" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usamakenway&" width="75%" alt="usamakenway" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usamakenway&" width="300" alt="usamakenway" /></p>
 
 
 <!--
