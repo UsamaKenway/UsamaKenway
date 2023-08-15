@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamakenway&label=Profile%20views&color=0e75b6&style=flat" alt="usamakenway" /> </p>
 
 ### 🔭 I’m currently working on 
-* [LLM-fastapi-n-gradio-server](https://github.com/UsamaKenway/LLM-fastapi-n-gradio-server.git) 
+* [Easy LLM Server](https://github.com/UsamaKenway/Easy-LLM-Server.git) 
 An open-source project with API support for your backend app to use any LLM model, featuring Gradio UI and Langchain integration.
 
 ### Writings 
