@@ -5,6 +5,8 @@
 ### 🔭 My projects
 * [Easy LLM Server](https://github.com/UsamaKenway/Easy-LLM-Server.git) - 2023
 An open-source project with API support for your backend app to use any LLM model, featuring Gradio UI and Langchain integration.
+* [Colab Notebook](https://colab.research.google.com/drive/1wDCbhQqZOnaIaMTGqTtO6T-s91IxB4jN?usp=sharing) - 2023
+Finetuning LoRa for Llama using PEFT
 
 ### Writings 
 * [StyleGan-Report](https://www.researchgate.net/publication/370672909_Generative_Adversarial_Networks_AI_Report) - 3rd May 2020
